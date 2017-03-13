@@ -19,6 +19,13 @@ darknet
 .fuse*
 results.txt
 *~
+.Rhistory
+LICENSE
+README.md
+bad.list
+extraction.weights
+sample_images/
+yolo.weights
 
 # OS Generated #
 .DS_Store*
